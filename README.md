@@ -2,7 +2,7 @@
 
 I'm David Kang, a self-taught software engineer from São, Paulo - Brazil
 
-Check out my website and learn more: https://www.davidkang.me
+Check out my website and learn more: <a href="https://www.davidkang.me" target="_blank">https://www.davidkang.me</a>
 
 
 # Toolbox :toolbox:
