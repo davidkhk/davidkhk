@@ -13,5 +13,3 @@ Check out my website and learn more: https://davidkang.me
 # My GitHub Stats :chart_with_upwards_trend:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkhk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidkhk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
