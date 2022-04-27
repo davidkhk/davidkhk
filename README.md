@@ -1,6 +1,6 @@
 # Hi there! :wave:
 
-My name is David Kang, I was born and raised in São Paulo, Brazil, studied Finance at Baruch College - CUNY (New York City) and worked as a finance consultant for 6 years. In 2020 I opened Frapp & Co., a coffee shop business, and in 2021 I taught myself how to code. Today I'm freelancing as a software developer.
+My name is David Kang, I was born and raised in São Paulo, Brazil, studied Finance at Baruch College - CUNY (New York City) and worked as a finance consultant for 6 years. In 2020 I opened Frapp & Co., a coffee shop business, and in 2021 I taught myself how to code. Today I'm a frontend developer at D3_Company.
 
 Check out my website and learn more: https://davidkang.me
 
