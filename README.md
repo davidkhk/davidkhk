@@ -1,6 +1,8 @@
 # Hi there! :wave:
 
-I'm a self-taught Elm and Elixir software developer experienced in independent work and project ownership. Constantly driven to expand my knowledge, both in my professional pursuits and personal interests. I'm currently a software engineer at [Uncover](https://www.uncover.co).
+At [Uncover](https://www.uncover.co), my role as a software engineer involves the development and maintenance of platform features, with a strong focus on Postgres database design and optimization using Ecto and SQL, building secure GraphQL APIs using Absinthe, and also UX building performant and reusable components using Elm.
+
+I enjoy solving complex problems with simple and straightforward solutions. Whether it's optimizing code efficiency or streamlining user experiences, I believe in creativity and simplicity to drive meaningful outcomes.
 
 # My GitHub Stats :chart_with_upwards_trend:
 
